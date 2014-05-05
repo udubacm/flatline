@@ -70,14 +70,23 @@ body {
   background: #F5F5F5;
 }
 #about p {
-  font-size: 1.3em;
+  font-size: 1.6em;
   font-weight: 300;
   color: #444444;
+}
+#video p {
+  font-size: 1.6em;
+  font-weight: 3000;
 }
 #video {
   background: #222222;
   color: #ffffff;
 }
+#documentation a {
+  font-size: 1.6em;
+  font-weight: 3000;
+}
+
 #concept-video {
   text-align: center;
 }
