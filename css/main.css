@@ -46,6 +46,7 @@ body {
 #documentation,
 #team,
 #candidates-details,
+#teaching-award,
 #candidates {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -57,6 +58,7 @@ body {
 #documentation h3,
 #team h3,
 #candidates-details h3,
+#teaching-award h3,
 #candidates h3 {
   font-size: 4em;
   text-transform: uppercase;
@@ -119,6 +121,13 @@ body {
   font-size: 1.3em;
 }
 #candidates-details span {
+  color: #9B59B6;
+  font-weight: bold;
+}
+#teaching-award p {
+  font-size: 1.3em;
+}
+#teaching-award span {
   color: #9B59B6;
   font-weight: bold;
 }
